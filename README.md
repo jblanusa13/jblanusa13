@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jelena Blanuša</h1>
-<h3 align="center">Computing and Automation ( E2 ) student at Faculty of Technical Sciences, Novi Sad</h3>
+<h3 align="center">Computing and Control Engineering ( E2 ) student at Faculty of Technical Sciences, Novi Sad</h3>
 
 - 📫 How to reach me **jblanusa13@gmail.com**
 
